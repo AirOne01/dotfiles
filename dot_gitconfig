@@ -1,0 +1,9 @@
+[credential "https://github.com"]
+	helper = 
+	helper = !/home/linuxbrew/.linuxbrew/Cellar/gh/2.7.0/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/home/linuxbrew/.linuxbrew/Cellar/gh/2.7.0/bin/gh auth git-credential
+[user]
+	email = popgthyrd@gmail.com
+	name = popgthyrd@gmail.com
