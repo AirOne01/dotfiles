@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 53863e7b3ff0c2e2816e90dab3d870adebdf49c7 airone <airone@Warrior-III.localdomain> 1648849955 +0200	branch: Created from origin/master
+53863e7b3ff0c2e2816e90dab3d870adebdf49c7 53863e7b3ff0c2e2816e90dab3d870adebdf49c7 airone <airone@Warrior-III.localdomain> 1648849955 +0200	checkout: moving from master to master
+53863e7b3ff0c2e2816e90dab3d870adebdf49c7 53863e7b3ff0c2e2816e90dab3d870adebdf49c7 airone <airone@Warrior-III.localdomain> 1650108612 +0200	checkout: moving from master to master
+53863e7b3ff0c2e2816e90dab3d870adebdf49c7 eb00b95d26e8f264af80f508d50ac32e50619027 airone <airone@Warrior-III.localdomain> 1650108612 +0200	pull --quiet --rebase origin master: checkout eb00b95d26e8f264af80f508d50ac32e50619027
+eb00b95d26e8f264af80f508d50ac32e50619027 eb00b95d26e8f264af80f508d50ac32e50619027 airone <airone@Warrior-III.localdomain> 1650108612 +0200	rebase finished: refs/heads/master onto eb00b95d26e8f264af80f508d50ac32e50619027
+eb00b95d26e8f264af80f508d50ac32e50619027 eb00b95d26e8f264af80f508d50ac32e50619027 airone <airone@Warrior-III.localdomain> 1650108612 +0200	checkout: moving from master to master
+eb00b95d26e8f264af80f508d50ac32e50619027 eb00b95d26e8f264af80f508d50ac32e50619027 airone <airone@Warrior-III.localdomain> 1651441259 +0200	checkout: moving from master to master
+eb00b95d26e8f264af80f508d50ac32e50619027 8f56a8bdf39d7727ab0e220f0164f78c77f9c50e airone <airone@Warrior-III.localdomain> 1651441260 +0200	pull --quiet --rebase origin master: checkout 8f56a8bdf39d7727ab0e220f0164f78c77f9c50e
+8f56a8bdf39d7727ab0e220f0164f78c77f9c50e 8f56a8bdf39d7727ab0e220f0164f78c77f9c50e airone <airone@Warrior-III.localdomain> 1651441260 +0200	rebase finished: refs/heads/master onto 8f56a8bdf39d7727ab0e220f0164f78c77f9c50e
+8f56a8bdf39d7727ab0e220f0164f78c77f9c50e 8f56a8bdf39d7727ab0e220f0164f78c77f9c50e airone <airone@Warrior-III.localdomain> 1651441260 +0200	checkout: moving from master to master
